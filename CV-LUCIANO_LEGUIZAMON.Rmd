@@ -1,0 +1,71 @@
+---
+title: "CV-LUCIANOLEGUIZAMON"
+author: "LUCIANO LEGUIZAMON"
+date: "2024-03-29"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Luciano Gabriel Leguizamon Domene
+
+![**TECNICO UNIVERSITARIO EN HIDROCARBUROS Y GEOCIENCIAS - ESTUDIANTE AVANZADO DE ING EN PERFORACIONES -TECNICO ELECTROMECANICO**](C:/Users/EXO-SMART/Documents/ACTAS-JUICIO/FOTOLUCIANO.jpg)
+
+### Formación :
+
+|                     Institución | Titulo                                               | Año                |
+|--------------------------------:|:-----------------------------------------------------|:-------------------|
+|        E.E.T N°3.136 “VESPUCIO” | TECNICO ELECTROMECANICO                              | 2.012-2.017        |
+|           UNIVERSIDAD SIGLO XXI | TECNICO UNIVERSITARIO EN HIDROCARBUROS Y GEOCIENCIAS | 2018-2021          |
+|   UNIVERSIDAD NACIONAL DE SALTA | INGENIERO EN PERFORACIONES                           | 2.018-2023 (3°AÑO) |
+| UNIVERSIDAD NACIONAL DE ROSARIO | LICENCIATURA EN PETROLEO Y GAS                       | 2.024 (CURSANDO)   |
+
+### Experiencia Laboral :
+
+-   Ayudante de taller
+
+### Sobre mi :
+
+##### SOY UNA PERSONA PROACTIVA CAPAZ DE TRABAJAR BAJO PRESIÓN RESOLVIENDO PROBLEMAS EN EQUIPO E INDEPENDIENTEMENTE.DURANTE MI FORMACIÓN ACADEMICA ADQUIRÍ CONOCIMIENTOS RELACIONADOS CON LA ACTIVIDAD PETROLERA (PERFORACIÓN Y PRODUCCIÓN) , MINERA , MECANICA Y GEOLOGICA. MI OBJETIVO ES FORMAR PARTE DE UNA EMPRESA DONDE PUEDA PONER EN PRACTICA TODOS MIS CONOCIMIENTOS , QUE ME BRINDE LA OPORTUNIDAD DE ALCANZAR MIS METAS Y DE CRECER EN EL AREA LABORAL , PERSONAL E INTELECTUAL.
+
+### Contacto :
+
+-   **Correo** : [lucianoleguizamon60\@gmail.com](mailto:lucianoleguizamon60@gmail.com){.email}
+-   **Celular** : ***+5493873302872***
+-   **Linkedin** : <https://www.linkedin.com/in/luciano-leguizamon-domene-59201918b/>
+
+### Datos :
+
+-   **Fecha de Nacimiento** : 09/01/1999
+-   **Lugar** : Tartagal - Salta
+-   **DNI**: 41.487.375
+-   **CUIL** : 20-41487375-9
+-   **Estado Civil** : soltero
+-   **Edad** : 25 Años
+
+### Cursos y Capacitaciones
+
+-   OPERARIO EN CONTROL DE SOLIDOS Y FLUIDOS DE PERFORACION
+-   OPERARIO EN PERFORACION, TERMINACION Y PRODUCCION DE POZOS DE PETROLEO Y GAS
+-   INYECCIONISTA EN FLUIDOS DE PERFORACION
+-   WORKOVER Y COMPLEMENTACION DE POZOS PETROLEROS
+-   MECANICO EN MOTORES DIESEL
+-   SEMINARIO SOBRE FRACTURA Y TERMINACION DE POZOS EN VACA MUERTA
+-   CEMENTACIÓN PRIMARIA Y CORRECTIVA
+-   WELL CONTROL
+-   JORNADA DE PERFORACIÓN
+-   JORNADA MINERA
+
+### Conocimientos :
+
+-   Mecanica Basica
+-   Computación-Paquete Office (WORD-EXCEL-POWERPOINT
+
+### Idiomas :
+
+-   Ingles (intermedio)
+-   Español (Nativo)
+
+### *LICENCIA NACIONAL DE CONDUCIR - CATEGORIA E1*
